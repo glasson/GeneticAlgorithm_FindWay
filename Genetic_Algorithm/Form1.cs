@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Genetic_Algorithm
 {
     public partial class Form1 : Form
@@ -15,6 +16,57 @@ namespace Genetic_Algorithm
         public Form1()
         {
             InitializeComponent();
+            
+        }
+
+        private void splitContainer1_SplitterMoved(object sender, SplitterEventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void StartButton_Click(object sender, EventArgs e)
+        {
+            // здесь вся графика
+        }
+
+        private void setObstacles_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SetEndButton_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
